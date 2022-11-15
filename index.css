@@ -315,6 +315,7 @@ body {
     flex-direction: column;
     text-align: center;
     justify-content: center;
+    gap: 30px;
   }
   .footer * {
     text-align: center;
