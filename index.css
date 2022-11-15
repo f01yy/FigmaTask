@@ -6,9 +6,6 @@
   box-sizing: border-box;
 }
 body {
-  overflow-x: hidden;
-}
-body {
   position: relative;
   padding: 0 20px;
   background-color: #1e1e1e;
@@ -81,7 +78,7 @@ body {
   width: 259px;
   height: 259px;
   left: 602px;
-  top: -154px;
+  /* top: -154px; */
   border-radius: 50%;
   background: #833ab4;
   opacity: 0.5;
@@ -92,7 +89,7 @@ body {
   position: absolute;
   width: 311px;
   height: 311px;
-  left: -102px;
+  /* left: -102px; */
   top: 251px;
   border-radius: 50%;
   background: #961a1a;
