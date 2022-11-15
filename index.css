@@ -322,12 +322,12 @@ body {
     text-transform: lowercase;
   }
   .circle-4 {
-    left: 50%;
-    top: 10%;
+    left: 640px;
+    top: 0;
   }
   .circle-5 {
-    left: 10%;
-    top: 20%;
+    left: 0px;
+    top: 400px;
   }
 }
 
