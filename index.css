@@ -340,7 +340,11 @@ body {
   .circle-5 {
     display: none;
   } */
-  document {
+  .circle-1,
+  .circle-2,
+  .circle-3,
+  .circle-4,
+  .circle-5 {
     overflow: hidden;
   }
   .nav {
