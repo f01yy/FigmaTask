@@ -323,10 +323,10 @@ body {
   }
   .circle-4 {
     left: 60%;
-    top: 0;
+    top: 10%;
   }
   .circle-5 {
-    left: 0;
+    left: 10%;
     top: 20%;
   }
 }
@@ -336,20 +336,12 @@ body {
   .contacts {
     display: none;
   }
-
-  /* .circle-4,
-  .circle-5 {
-    display: none;
-  } */
-  .circle-1,
-  .circle-2,
-  .circle-3,
+  body {
+    background: linear-gradient(rgb(0, 0, 59), rgb(38, 0, 69));
+  }
   .circle-4,
   .circle-5 {
-    overflow: hidden;
-  }
-  body {
-    overflow: hidden;
+    display: none;
   }
   .nav {
     position: fixed;
