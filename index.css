@@ -321,20 +321,27 @@ body {
   .consultation h2 span {
     text-transform: lowercase;
   }
-  .circle-4 {
+  /* .circle-4 {
     left: 0;
     top: 0;
   }
   .circle-5 {
     left: 10%;
     top: 20%;
-  }
+  } */
 }
 
 @media screen and (max-width: 640px) {
+  .circle-4,
+  .circle-5 {
+    display: none;
+  }
   .logo,
   .contacts {
     display: none;
+  }
+  .main__title {
+    text-align: left;
   }
   .nav {
     position: fixed;
