@@ -336,9 +336,6 @@ body {
   .contacts {
     display: none;
   }
-  body {
-    background: linear-gradient(rgb(0, 0, 59), rgb(38, 0, 69));
-  }
   .circle-4,
   .circle-5 {
     display: none;
