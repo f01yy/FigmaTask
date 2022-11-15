@@ -316,6 +316,9 @@ body {
 }
 
 @media screen and (max-width: 640px) {
+  body {
+    overflow: hidden;
+  }
   .logo,
   .contacts {
     display: none;
@@ -330,11 +333,12 @@ body {
     padding: 20px;
   }
   .nav__list {
-    gap: 16px;
-    justify-content: center;
   }
   .nav__item a {
     font-size: 12px;
     font-weight: 500;
+  }
+  .nav__item:last-child {
+    display: none;
   }
 }
