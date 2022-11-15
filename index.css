@@ -326,8 +326,8 @@ body {
     top: 0;
   }
   .circle-5 {
-    left: 0;
-    bottom: 0;
+    left: 10%;
+    top: 20%;
   }
 }
 
