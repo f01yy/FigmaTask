@@ -335,6 +335,14 @@ body {
   .contacts {
     display: none;
   }
+
+  /* .circle-4,
+  .circle-5 {
+    display: none;
+  } */
+  body {
+    overflow: hidden;
+  }
   .nav {
     position: fixed;
     top: 0;
