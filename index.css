@@ -5,6 +5,9 @@
   padding: 0;
   box-sizing: border-box;
 }
+html {
+  overflow-x: hidden;
+}
 body {
   position: relative;
   padding: 0 20px;
@@ -323,10 +326,10 @@ body {
   }
   .circle-4 {
     left: 60%;
-    top: 50%;
+    top: 10%;
   }
   .circle-5 {
-    left: 50%;
+    left: 10%;
     top: 20%;
   }
 }
@@ -336,10 +339,10 @@ body {
   .contacts {
     display: none;
   }
-  /* .circle-4,
+  .circle-4,
   .circle-5 {
     display: none;
-  } */
+  }
   .nav {
     position: fixed;
     top: 0;
