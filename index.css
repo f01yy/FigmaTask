@@ -108,7 +108,7 @@ body {
 .header-wrapper,
 .main-wrapper,
 .footer-wrapper {
-  padding: 0 px;
+  padding: 0 16px;
 }
 .header {
   padding-top: 66px;
@@ -328,8 +328,15 @@ body {
     display: flex;
     flex-direction: column;
   }
+  .consultation h2 {
+    text-align: center;
+    margin-top: 20px;
+  }
   .consultation h2 span {
     text-transform: lowercase;
+  }
+  .consultation__list {
+    margin-top: 10px;
   }
 }
 
@@ -354,9 +361,6 @@ body {
   }
   .consultation h2 {
     text-align: left;
-  }
-  .consultation__list {
-    margin-top: 20px;
   }
   .consultation__item h3,
   .consultation__item p {
@@ -416,7 +420,6 @@ body {
     display: none;
   }
   .footer {
-    padding: 0 16px;
     padding-top: 45px;
     margin-bottom: 0;
   }
