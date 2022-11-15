@@ -261,6 +261,10 @@ body {
 }
 
 @media screen and (max-width: 1030px) {
+  .circle-4 {
+    left: 0;
+    top: 0;
+  }
   .nav__list {
     gap: 20px;
   }
@@ -324,14 +328,6 @@ body {
 }
 
 @media screen and (max-width: 640px) {
-  .circle-4 {
-    left: 0;
-    top: 0;
-  }
-  /* .circle-5 {
-    left: 0;
-    top: 50%; */
-  }
   .logo,
   .contacts {
     display: none;
