@@ -137,6 +137,7 @@ body {
 .main {
   width: 100%;
   max-width: 1140px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
   padding-top: 100px;
@@ -214,6 +215,7 @@ body {
 .footer {
   padding-top: 70px;
   width: 100%;
+  margin: 0 auto;
   max-width: 1140px;
   display: flex;
   justify-content: space-between;
