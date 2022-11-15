@@ -339,10 +339,6 @@ body {
   .contacts {
     display: none;
   }
-  .circle-4,
-  .circle-5 {
-    display: none;
-  }
   .nav {
     position: fixed;
     top: 0;
