@@ -340,7 +340,7 @@ body {
   .circle-5 {
     display: none;
   } */
-  body {
+  document {
     overflow: hidden;
   }
   .nav {
