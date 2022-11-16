@@ -505,7 +505,7 @@ body {
     width: 24px;
     height: 24px;
   }
-  .license__content p {
-    align-self: flex-start;
+  .license {
+    justify-content: flex-start;
   }
 }
