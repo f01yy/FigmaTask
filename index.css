@@ -506,6 +506,6 @@ body {
     height: 24px;
   }
   .license__content p {
-    text-align: left;
+    align-self: flex-start;
   }
 }
