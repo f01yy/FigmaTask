@@ -447,6 +447,7 @@ body {
     background-color: #0e1014;
     height: 55px;
     padding: 20px;
+    z-index: 1;
   }
   .main-wrapper {
     padding-bottom: 59px;
