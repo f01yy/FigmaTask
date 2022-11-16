@@ -508,4 +508,7 @@ body {
   .license {
     justify-content: flex-start;
   }
+  .license__content p {
+    text-align: left;
+  }
 }
